@@ -87,9 +87,6 @@ Logs are saved to `judgment_downloader.log` and printed to the console.
 - CAPTCHAs may occasionally fail; increase `max_captcha_retries` if needed.
 - Invalid PDFs are automatically repaired or decrypted.
 
-## License
-
-MIT
 
 ## Disclaimer
 
