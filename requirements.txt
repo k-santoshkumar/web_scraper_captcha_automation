@@ -1,0 +1,9 @@
+langchain-google-genai==2.1.9
+python-dotenv
+pandas
+Pillow
+requests
+selenium
+PyPDF2
+pikepdf==9.10.2
+chromedriver-autoinstaller
